@@ -1,0 +1,1 @@
+Hello, this mail was generated to let you know about the domain: {{ $domainName }} ({{ $domain }}) status.
